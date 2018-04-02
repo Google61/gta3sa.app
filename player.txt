@@ -1,0 +1,395 @@
+cat=0 name=Default onfoot=5 slow=5 fast=5 defaultformat=7 defaultstream=1
+"10ls_tattcolor" width=256 height=256 png=828cd14b img=a2c347cb alphamode=2
+"10ls2_tattcolor" width=256 height=256 png=3a38fe4d img=23223dca alphamode=2
+"10ls3_tattcolor" width=256 height=256 png=da690d83 img=0ed1ad39 alphamode=2
+"10ls4_tattcolor" width=256 height=256 png=fdb15282 img=753818e0 alphamode=2
+"10ls5_tattcolor" width=256 height=256 png=1c3a81ac img=7f8b962f alphamode=2
+"10og_tattcolor" width=256 height=256 png=3b8876db img=76cb9559 alphamode=2
+"10weed_tattcolor" width=256 height=256 png=5649d30f img=61425263 alphamode=2
+"11dice_tattcolor" width=256 height=256 png=475582fc img=27553f7e alphamode=2
+"11dice2_tattcolor" width=256 height=256 png=cbf381a2 img=9395634d alphamode=2
+"11godsgift_tattcolor" width=256 height=256 png=45425c89 img=abc55fb3 alphamode=2
+"11grove_tattcolor" width=256 height=256 png=1263972b img=58b1e648 alphamode=2
+"11grove2_tattcolor" width=256 height=256 png=7eed982d img=e1b5343d alphamode=2
+"11grove3_tattcolor" width=256 height=256 png=d988ccbc img=d979e485 alphamode=2
+"11jail_tattcolor" width=256 height=256 png=e97b0b02 img=1b76ff4f alphamode=2
+"12angels_tattcolor" width=256 height=256 png=838054a9 img=e46f8e0e alphamode=2
+"12bandit_tattcolor" width=256 height=256 png=6276d981 img=5f7034b4 alphamode=2
+"12cross7_tattcolor" width=256 height=256 png=8a3a9795 img=3c3f01c3 alphamode=2
+"12dagger_tattcolor" width=256 height=256 png=dc8ae8d8 img=1304d6d2 alphamode=2
+"12mayabird_tattcolor" width=256 height=256 png=a52545d9 img=fa1ea3cb alphamode=2
+"12mayaface_tattcolor" width=256 height=256 png=e23c8f52 img=ec43f950 alphamode=2
+"4nation_tattcolor" width=256 height=256 png=c9016d68 img=01f2e237 alphamode=2
+"4rip_tattcolor" width=256 height=256 png=7ee6dfc7 img=1ac02713 alphamode=2
+"4spider_tattcolor" width=256 height=256 png=cda71309 img=54dd9d9d alphamode=2
+"4weed_tattcolor" width=256 height=256 png=65e741d7 img=4ed4f895 alphamode=2
+"5cross_tattcolor" width=256 height=256 png=24d11406 img=670264e0 alphamode=2
+"5cross2_tattcolor" width=256 height=256 png=39d4f40d img=01fbdbb9 alphamode=2
+"5cross3_tattcolor" width=256 height=256 png=9dd248bc img=01615860 alphamode=2
+"5gun_tattcolor" width=256 height=256 png=b5c1f0bc img=176840b8 alphamode=2
+"6africa_tattcolor" width=256 height=256 png=4747cbb7 img=45723cf8 alphamode=2
+"6aztec_tattcolor" width=256 height=256 png=e0ca1750 img=50988223 alphamode=2
+"6clown_tattcolor" width=256 height=256 png=bf8564aa img=6087668a alphamode=2
+"6crown_tattcolor" width=256 height=256 png=453b0aac img=00d4ec2d alphamode=2
+"7cross_tattcolor" width=256 height=256 png=9dc9764c img=9d5142ca alphamode=2
+"7cross2_tattcolor" width=256 height=256 png=7a78cd2c img=09c3ce14 alphamode=2
+"7cross3_tattcolor" width=256 height=256 png=cf8f2a40 img=dd52ee4d alphamode=2
+"7mary_tattcolor" width=256 height=256 png=30a11297 img=25ac4718 alphamode=2
+"8gun_tattcolor" width=256 height=256 png=24b47979 img=80a9f0e6 alphamode=2
+"8poker_tattcolor" width=256 height=256 png=2dcab4a8 img=8b5eb887 alphamode=2
+"8sa_tattcolor" width=256 height=256 png=35fb0b46 img=11561e09 alphamode=2
+"8sa2_tattcolor" width=256 height=256 png=5df85b64 img=6afa5bb9 alphamode=2
+"8sa3_tattcolor" width=256 height=256 png=6c1083a7 img=b2780e54 alphamode=2
+"8santos_tattcolor" width=256 height=256 png=f856fedf img=9a2215ac alphamode=2
+"8westside_tattcolor" width=256 height=256 png=c14c8e21 img=0d29321a alphamode=2
+"9bullet_tattcolor" width=256 height=256 png=b24fa862 img=78cd928d alphamode=2
+"9crown_tattcolor" width=256 height=256 png=49c9430d img=6df22a0d alphamode=2
+"9gun_tattcolor" width=256 height=256 png=c5b66619 img=f44202f3 alphamode=2
+"9gun2_tattcolor" width=256 height=256 png=64db921d img=70c594d8 alphamode=2
+"9homeboy_tattcolor" width=256 height=256 png=1fa2cfec img=fe937190 alphamode=2
+"9rasta_tattcolor" width=256 height=256 png=bcce4e14 img=7b6e5719 alphamode=2
+"afro_face_afro" "affiliate=flattop_afro"
+"afrobeard_afrobeard" "affiliate=beard_afrobeard"
+"afroblond_face_afro_blond" "affiliate=hairblond_hairblond"
+"afrogoatee_goatee" "affiliate=goatee_goatee"
+"afrotash_afrotash" width=128 height=128 png=185d39ac img=d06c7e75
+"balaclava_balaclava" width=128 height=128 png=ceae9736 img=68c9953b
+"bald_bald" width=128 height=128 png=f40afce6 img=9243aef2
+"baldbeard_baldbeard" width=128 height=128 png=837cfd8d img=bc584e6e
+"baldgoatee_baldgoatee" width=128 height=128 png=2c355a8a img=75878e20
+"baldtash_baldtash" width=128 height=128 png=715f2b22 img=35054cb0
+"bandanablu_bandanablu" width=64 height=64 png=cc0b242d img=67f38c99
+"bandanaflag_bandanaflag" width=64 height=64 png=ceafff10 img=1470c45a
+"bandanagang_bandanagang" width=64 height=64 png=04615377 img=c5d79eb9
+"bandanaleaf_bandanaleaf" width=64 height=64 png=183189c9 img=db9695f9
+"bandanared_bandanared" width=64 height=64 png=fa0f90d7 img=3c16776a
+"bandanaskull_bandanaskull" width=64 height=64 png=991f4ebc img=00c083a8
+"bandblack_bandblack" "affiliate=bandblack2_bandblack"
+"bandblack2_bandblack" width=128 height=128 png=d896c04e img=7f9472e6
+"bandblack3_bandblack" "affiliate=bandblack2_bandblack"
+"bandblue_bandblue" "affiliate=bandblue2_bandblue"
+"bandblue2_bandblue" width=128 height=128 png=71a8a895 img=7e283859
+"bandblue3_bandblue" "affiliate=bandblue2_bandblue"
+"bandgang_bandgang" "affiliate=bandgang2_bandgang"
+"bandgang2_bandgang" width=128 height=128 png=21916877 img=46d7ab0b
+"bandgang3_bandgang" "affiliate=bandgang2_bandgang"
+"bandgang4_bandgang" "affiliate=bandgang2_bandgang"
+"bandits_bandits" width=256 height=256 png=2595519e img=7bbde7d7 alphamode=1
+"bandred_bandred" "affiliate=bandred2_bandred"
+"bandred2_bandred" width=128 height=128 png=18a7f314 img=cfd5beeb
+"bandred3_bandred" "affiliate=bandred2_bandred"
+"bask1eris_bask1eris" width=64 height=64 png=e9a7e89d img=309d0649
+"bask1problk_bask1problk" width=64 height=64 png=9f3f97b1 img=f9ac6d0b
+"bask1prowht_bask1prowht" width=64 height=64 png=aa32546c img=fcb26e82
+"bask2heatband_bask2heatband" width=64 height=64 png=2e6ed8e1 img=cec57ef6
+"bask2heatwht_bask2heatwht" width=64 height=64 png=2e07ba5d img=806e5122
+"bask2semi_bask2semi" width=64 height=64 png=4e931990 img=768582e6
+"baskballdrib_baskballdrib" width=256 height=256 png=db4b462c img=cfe81f81 alphamode=1
+"baskballloc_baskballloc" width=256 height=256 png=ba39be03 img=2cd65418 alphamode=1
+"baskballrim_baskballrim" width=256 height=256 png=ee417d92 img=7ded6ff3 alphamode=1
+"bballjackrstar_bballjackrstar" width=256 height=256 png=4005a48a img=d1212fe9
+"bbjack_bbjackrstar" "affiliate=bballjackrstar_bballjackrstar"
+"bbjackrim_bbjackrim" width=256 height=256 png=1625fe0d img=f43b828a
+"bbjersey_bbjersey" width=256 height=256 png=9bfcd44d img=66234081 alphamode=1
+"bbshortred_bbshortred" width=128 height=256 png=9a2bed57 img=db84c125
+"bbshortwht_bbshortwht" width=128 height=256 png=b6ac5b12 img=4ca42a2e
+"beard_afrobeard" width=128 height=128 png=eb67b463 img=4b29a7c6
+"beretblk_beretblk" width=16 height=16 png=c90737ed img=787a8e78
+"beretred_beretred" width=16 height=16 png=3e8545c3 img=b6583f90
+"biegetr_biegetr" width=128 height=256 png=89565275 img=5053441d
+"biker_biker" width=64 height=64 png=104a84b8 img=9ef77efd
+"bikerhelmet_bikerhelmet" width=128 height=64 png=796917f7 img=a228680b
+"boater_boater" width=32 height=64 png=448af67d img=04d98350
+"boaterblk_boaterblk" width=32 height=64 png=2eac6452 img=b3b7b425
+"bowler_bowler" "affiliate=zorro_bowler"
+"bowlerblue_bowlerblue" width=64 height=64 png=aa74cd96 img=02027731
+"bowlergang_bowlergang" width=64 height=64 png=35fe95b2 img=bcdf937e
+"bowlerred_bowlerred" width=64 height=64 png=066da73a img=78c532f8
+"bowleryellow_bowleryellow" width=64 height=64 png=259819ec img=4316f203
+"bowling_bowling" width=256 height=256 png=ac080bb2 img=004fe72b alphamode=2
+"boxingcap_boxingcap" width=64 height=64 png=15d8f3eb img=5261278e
+"boxingshoe_boxingshoe" width=64 height=64 png=3daee748 img=7eea46dc
+"boxshort_boxshort" width=128 height=256 png=76f64e7d img=304be8b8
+"capblk_capblk" width=64 height=64 png=d8fbdde7 img=6eb239e6
+"capblkback_capblk" "affiliate=capblk_capblk"
+"capblkover_capblk" "affiliate=capblk_capblk"
+"capblkside_capblk" "affiliate=capblk_capblk"
+"capblkup_capblk" "affiliate=capblk_capblk"
+"capblue_capblue" width=64 height=64 png=f57d8237 img=9f117ee3
+"capblueback_capblue" "affiliate=capblue_capblue"
+"capblueover_capblue" "affiliate=capblue_capblue"
+"capblueside_capblue" "affiliate=capblue_capblue"
+"capblueup_capblue" "affiliate=capblue_capblue"
+"capgang_capgang" width=64 height=64 png=44ecb556 img=933f51e2
+"capgangback_capgang" "affiliate=capgang_capgang"
+"capgangover_capgang" "affiliate=capgang_capgang"
+"capgangside_capgang" "affiliate=capgang_capgang"
+"capgangup_capgang" "affiliate=capgang_capgang"
+"capgrey_capgrey" width=64 height=64 png=4fc7a96c img=acb2cdbd
+"capgreyback_capgrey" "affiliate=capgrey_capgrey"
+"capgreyup_capgrey" "affiliate=capgrey_capgrey"
+"capknitblk_capknitblk" width=32 height=128 png=a3611f8b img=abe9c404
+"capknitgrn_capknitgrn" width=32 height=128 png=f7e4413c img=35f4ad5b
+"capnband_capnband" width=128 height=128 png=6aa44388 img=4d7f58e6
+"capnbandgang_capnbandgang" width=128 height=128 png=e695e64b img=b573ca5a
+"capovergang_capovergang" width=128 height=128 png=8b94d254 img=64cdd2a8
+"capoverred_capoverred" width=128 height=128 png=e57743da img=7458c44d
+"cappolice_cappolice" width=64 height=128 png=f36c1c9a img=b5db4164
+"capred_capred" width=64 height=64 png=6edc967f img=20f9e8e1
+"capredback_capred" "affiliate=capred_capred"
+"capredover_capred" "affiliate=capred_capred"
+"capredside_capred" "affiliate=capred_capred"
+"capredup_capred" "affiliate=capred_capred"
+"captruck_captruck" width=128 height=128 png=e3de557c img=4329f22d alphamode=2
+"capzip_capzip" width=64 height=64 png=7f33d748 img=22382f66
+"capzipback_capzip" "affiliate=capzip_capzip"
+"capzipover_capzip" "affiliate=capzip_capzip"
+"capzipside_capzip" "affiliate=capzip_capzip"
+"capzipup_capzip" "affiliate=capzip_capzip"
+"chinosbiege_chinosbiege" width=128 height=256 png=e51daa1b img=898b8573
+"chinosblack_chinosblack" width=128 height=256 png=4ef5abe9 img=0c4fb487
+"chinosblue_chinosblue" width=128 height=256 png=47591a02 img=c9ea97b3
+"chinoskhaki_chinoskhaki" width=128 height=256 png=ef91195f img=0430a5f7
+"chongerblue_chongerblue" width=128 height=256 png=d8eef2ce img=106be70c
+"chongergang_chongergang" width=128 height=256 png=4e54c66c img=57bb327d
+"chongergrey_chongergrey" width=128 height=256 png=411e5b95 img=9ac6127a
+"chongerred_chongerred" width=128 height=256 png=58d559f4 img=705ee18d
+"chucksblack_chucksblack" width=64 height=64 png=196aff3d img=3d33a9ad
+"coach_coach" width=256 height=256 png=feae785f img=3daf099f
+"coachsemi_coachsemi" width=256 height=256 png=4ff58690 img=59938dce
+"convheatblk_convheatblk" width=64 height=64 png=89d61ada img=0678ab19
+"convheatorn_convheatorn" width=64 height=64 png=d363a618 img=1359b1cc
+"convheatred_convheatred" width=64 height=64 png=736fdaba img=8d213f1a
+"convproblk_convproblk" width=64 height=64 png=640d2843 img=331fd70c
+"convproblu_convproblu" width=64 height=64 png=7edeb872 img=d337e1c8
+"convprogrn_convprogrn" width=64 height=64 png=e2dc7527 img=44c2fba8
+"cornrows_cornrows" width=128 height=128 png=ae93910e img=9d615ae8
+"cornrowsb_cornrowsb" width=128 height=128 png=e272835d img=d13675b6
+"country_country" width=256 height=256 png=7fd664c7 img=3a1fbf75 alphamode=1
+"countrytr_countrytr" width=128 height=256 png=50b221ae img=39b66e2a
+"cowboy_cowboy" width=64 height=128 png=06b7d25c img=58ab189c
+"cowboyboot_cowboyboot" width=64 height=64 png=976b9ac9 img=1772a88c
+"cowboyboot2_cowboyboot2" width=64 height=64 png=1ca57e01 img=aeb7e7a7
+"croupier_croupier" width=256 height=256 png=e0323a56 img=4bd37bc2
+"cutoffchinos_cutoffchinos" width=128 height=256 png=f1ad6ecd img=fbc6f6ea
+"cutoffchinosblue_cutoffchinosblue" width=128 height=256 png=ea441231 img=02edd70e
+"cutoffdenims_cutoffdenims" width=128 height=256 png=b5bc8630 img=38d7a0fd
+"denimfade_denimfade" width=256 height=256 png=da68fdc4 img=3933b14e
+"denimsgang_denimsgang" width=128 height=256 png=274f2471 img=7b3bfaad
+"denimsred_denimsred" width=128 height=256 png=95dad78d img=fea1ce27
+"dogtag_dogtag" width=64 height=64 png=1f291165 img=975ad1da alphamode=2
+"dustmask_dustmask" width=64 height=64 png=8892d2e4 img=7b29030c
+"elvishair_elvishair" width=128 height=128 png=7efce62d img=ec32744e
+"eyepatch_eyepatch" width=64 height=32 png=1c69694d img=6b8c2794
+"feet_feet8bit" width=64 height=64 png=bfb9a0cc img=8860d9db
+"fez_capoverred" "affiliate=capoverred_capoverred"
+"field_field" width=256 height=256 png=132e163d img=7ee8faa9
+"flattop_afro" width=128 height=128 png=711482ae img=6fb5cdfa
+"flipflop_flipflop" width=64 height=64 png=a8d40285 img=4724987c
+"foot_foot" "affiliate=player_feet_foot"
+"garageleg_garageleg" width=128 height=256 png=e8364249 img=9e9133b2
+"garagetop_garagetop" width=256 height=256 png=077deecb img=9d4d362a
+"gimp_gimp" width=256 height=256 png=6da4bbaa img=de5d183f
+"gimpleg_gimpleg" width=128 height=256 png=67c26b84 img=5fee99f1
+"gimpmask_gimpmask" width=128 height=128 png=a3f288f0 img=00db208d
+"gimpshoe_gimpshoe" width=64 height=64 png=a5656b15 img=716af9b3
+"glasses01_glasses01" width=64 height=32 png=e9f86738 img=c0906219 alphamode=2
+"glasses01dark_glasses01dark" width=64 height=32 png=f78481f1 img=263895b8 alphamode=2
+"glasses03_glasses03green" width=64 height=32 png=78fed168 img=a5ad39cd alphamode=2
+"glasses03blue_glasses03blue" width=64 height=32 png=be419a07 img=a86e366d alphamode=2
+"glasses03dark_glasses03dark" width=64 height=32 png=b3f61991 img=7c3677d1 alphamode=2
+"glasses03red_glasses03red" width=64 height=32 png=c800d7a8 img=181fb0ba alphamode=2
+"glasses04_glasses04" width=64 height=32 png=922fcacb img=82ccdd5b alphamode=2
+"glasses04dark_glasses04dark" width=64 height=32 png=74e7d54c img=3a35b342 alphamode=2
+"glasses05_glasses05dark" width=64 height=32 png=8df050be img=9db690a8 alphamode=2
+"glasses05dark_glasses05dark" width=64 height=32 png=8202b72d img=969663d7 alphamode=2
+"glassesx_glassesx" width=64 height=64 png=abb3bc2d img=a3121d3b alphamode=2
+"goatee_goatee" width=128 height=128 png=e78f09d6 img=28f61991
+"groovecut_groovecut" width=128 height=128 png=2c6b7c18 img=1b404af3
+"groucho_groucho" width=64 height=64 png=ab4f5321 img=1a43881f alphamode=2
+"hairblond_hairblond" width=128 height=128 png=e2565f91 img=43405d66
+"hairblue_hairblue" width=128 height=128 png=b0177a88 img=ae9799dd
+"hairgreen_hairgreen" width=128 height=128 png=a96f3818 img=2265fc27
+"hairpink_hairpink" width=128 height=128 png=9d776572 img=55ddc533
+"hairred_hairred" width=128 height=128 png=e6fa0864 img=2bb819a3
+"hands_torso8bit" width=256 height=256 png=d7c1caa2 img=16c164a2
+"hatmancblk_hatmancblk" width=8 height=8 png=a3ae0093 img=6d0d4a3e
+"hatmancplaid_hatmancplaid" width=32 height=32 png=184687a7 img=fda86f02
+"hattiger_hattiger" width=64 height=64 png=5fa36e82 img=74086f14
+"hawaiired_hawaiiblue" width=256 height=256 png=102a6df2 img=a252cee9 alphamode=2
+"hawaiiwht_hawaiiwht" width=256 height=256 png=5a884923 img=e8e66ed8 alphamode=2
+"head_head8bit" width=128 height=128 png=d890c1b8 img=e1de5495
+"helmet_helmet" width=64 height=64 png=272fb318 img=1e0bf593 alphamode=2
+"highafro_highfade" width=128 height=128 png=48c3d485 img=094daab4
+"highfade_highfade" "affiliate=highafro_highfade"
+"hitop_hitop" width=64 height=64 png=71c6bf60 img=b5f0eef8
+"hockey_hockey" width=64 height=64 png=5c8e24e8 img=bd5da9fc alphamode=2
+"hockeytop_hockeytop" width=256 height=256 png=4defa6e9 img=7d4c4da3
+"hoodjackbeige_hoodjackbeige" width=256 height=256 png=383b756f img=882bd145
+"hoodyabase5_hoodyabase5" width=256 height=256 png=87561513 img=fd5ec418
+"hoodyablack_hoodyablack" width=256 height=256 png=73af8e3d img=93c44174
+"hoodyablue_hoodyablue" width=256 height=256 png=bd305ca2 img=e2eeaf1c
+"hoodyagreen_hoodyagreen" width=256 height=256 png=70427305 img=df6fac06
+"hoodyamerc_hoodyamerc" width=256 height=256 png=758d1b6f img=5bd38809
+"hoodyarockstar_hoodyarockstar" width=256 height=256 png=4fe99a74 img=5aa8e705
+"hoodyb_hoodyb" width=256 height=256 png=09702d12 img=3718532c
+"jeansdenim_legs" width=128 height=256 png=5f879e84 img=c7f5a33b
+"jhericurl_jhericurl" width=128 height=128 png=017843f0 img=5fbd73c1
+"leather_leather" width=256 height=256 png=de6a923e img=110cf4dd
+"leathertr_leatherTr" width=128 height=256 png=b1451c13 img=64370f68
+"leathertrchaps_leatherTrchaps" width=128 height=256 png=f1960701 img=11aadd19
+"legs_legs" width=128 height=256 png=5673d05c img=886439d7
+"legsblack_legsboxersblk" width=128 height=256 png=f5ef0b3a img=40c3b309
+"legsboxerswht_legsboxerswht" width=128 height=256 png=502ab748 img=871ca348
+"legsheart_legsheart" width=128 height=256 png=fea9f79e img=95b9afcf
+"legspantsgrey_legspantsgrey" width=128 height=256 png=50b7751f img=420a8d4a
+"letter_letter" width=256 height=256 png=43f0f1a0 img=94eeecfa
+"medic_medic" width=256 height=256 png=e195cd36 img=a14ae795 alphamode=1
+"medictr_medictr" width=128 height=256 png=d270c6c5 img=dcb6d1c5
+"mohawk_mochican" width=128 height=128 png=923130c5 img=504e4dd7
+"mohawkbeard_mohawkbeard" width=128 height=128 png=9390758d img=4a9cdda6
+"mohawkblond_mochicanblond" width=128 height=128 png=fd57b155 img=d5feac1c
+"mohawkpink_mochicanpink" width=128 height=128 png=7ee4dbe4 img=02bc2652
+"moto_moto" width=64 height=64 png=710c9261 img=40e02677
+"neckafrica_africa" width=64 height=64 png=cdc735c6 img=dec77c6a alphamode=2
+"neckcross_neckcross" width=64 height=64 png=36d5ef12 img=1069d2f0 alphamode=2
+"neckdollar_neckdollar" width=64 height=64 png=14761d39 img=04b77551 alphamode=2
+"neckgold_neckgold" width=64 height=64 png=7c090198 img=db8d0324
+"neckhash_neckhash" width=64 height=64 png=b0aeeaa9 img=ad64be39
+"neckls_neckLS" width=64 height=64 png=8e8a8bee img=0bd5a00d alphamode=2
+"neckropeg_neckropeg" width=64 height=64 png=e3936b07 img=182736da alphamode=2
+"neckropes_neckropes" width=64 height=64 png=5cc9f97d img=cffb7570 alphamode=2
+"necksaints_necksaints" width=64 height=64 png=257a1c74 img=c097a892 alphamode=2
+"necksilver_neckLS" width=64 height=64 png=2a1df137 img=b9f6025b
+"painter_painter" width=256 height=256 png=fdf9388a img=a4c6a799
+"pimp_pimp" width=256 height=256 png=7e2657c6 img=5fb0fd92
+"pimpshoe_pimpshoe" width=64 height=64 png=d6f28ea1 img=1cc3ab2b
+"pimptr_pimptr" width=128 height=256 png=4cd5c1ad img=f3e5ae8a
+"player_face_face" "affiliate=wedge_face"
+"player_feet_foot" width=64 height=64 png=1d6685f3 img=a13f57d1
+"player_legs_legs" width=128 height=256 png=eebd726e img=ecca2c34
+"player_legs_legs_fat" "affiliate=player_legs_legs"
+"player_legs_legs_ripped" "affiliate=player_legs_legs"
+"player_torso_torso" width=256 height=256 png=0fba8558 img=49c1c75c
+"player_torso_torso_fat" width=256 height=256 png=4adcc855 img=116ca847
+"player_torso_torso_ripped" width=256 height=256 png=f563d6b2 img=8be7bdf9
+"policeshirt_policeshirt" width=256 height=256 png=fb5b278a img=2f493874 alphamode=1
+"policetr_policetr" width=128 height=256 png=56d4b4af img=80da1a86
+"sandal_sandal" width=64 height=64 png=f6c97fb1 img=b14c0337
+"sandalsock_sandalsock" width=64 height=64 png=fdccfcee img=7eb1a31f
+"shadesblk_shadesblk" width=64 height=32 png=49542e4f img=c66004f8 alphamode=2
+"shellsuit_shellsuit" width=256 height=256 png=04970118 img=a79b3e21
+"shellsuittr_shellsuittr" width=128 height=256 png=1371fbb1 img=2010f730
+"shirtablue_shirtablue" width=256 height=256 png=a2d17c6e img=cdd9e394
+"shirtagrey_shirtagrey" width=256 height=256 png=02c86a8e img=5a5cdd3e
+"shirtayellow_shirtayellow" width=256 height=256 png=7556d00c img=82698e85
+"shirtbblue_shirtbblue" width=256 height=256 png=b1887335 img=42e7112b
+"shirtbcheck_shirtbcheck" width=256 height=256 png=19882571 img=0947d67a
+"shirtbgang_shirtbgang" width=256 height=256 png=c04dffd7 img=1d53dcb4
+"shirtbplaid_shirtbplaid" width=256 height=256 png=e12a9ac9 img=e33b1711
+"shoedressblk_shoedressblk" width=64 height=64 png=9d38e132 img=3fb1e68a
+"shoedressbrn_shoedressbrn" width=64 height=64 png=ae4f216d img=1c4aafb2
+"shoesandal_shoesandal" width=64 height=64 png=f8739377 img=3fb5ca8d
+"shoespatz_shoespatz" width=64 height=64 png=cd18b43b img=59af815a
+"shortsgang_shortsgang" width=128 height=256 png=0063e251 img=8230a2ce
+"shortsgrey_shortsgrey" width=128 height=256 png=324e93d7 img=ad87789f
+"shortskhaki_shortskhaki" width=128 height=256 png=b1ff7e84 img=7ce10a33
+"sixtyniners_sixtyniners" width=256 height=256 png=e9034f5d img=d9b5fa06 alphamode=2
+"skullyblk_skully" width=128 height=128 png=83181bed img=a0e3ad61
+"skullygrn_skullygrn" width=128 height=128 png=30e0c7a7 img=ea865980
+"sleevtbrown_sleevtbrown" width=256 height=256 png=0023d0dc img=32168bca
+"slope_face" "affiliate=wedge_face"
+"snakeskin_snakeskin" width=64 height=64 png=c8c326fd img=c1abad80
+"sneakerbincblk_sneakerbincblk" width=64 height=64 png=988176ed img=64527941
+"sneakerbincblu_sneakerbincblu" width=64 height=64 png=61cd3c4d img=e6d6dc8f
+"sneakerbincgang_sneakerbincgang" width=64 height=64 png=ebfbfdb3 img=a6d584d6
+"sneakerheatblk_sneakerheatblk" width=64 height=64 png=e85fbf94 img=683793ea
+"sneakerheatgry_sneakerheatgry" width=64 height=64 png=e533a4b3 img=5832feed
+"sneakerheatwht_sneakerheatwht" width=64 height=64 png=71ab56f9 img=014dd4f7
+"sneakerproblu_sneakerproblu" width=64 height=64 png=b373d331 img=cd58c616
+"sneakerprored_sneakerprored" width=64 height=64 png=bb50d372 img=9e3f46fb
+"sneakerprowht_sneakerprowht" width=64 height=64 png=0d7cc303 img=c9b3f377
+"sportjack_sportjack" width=256 height=256 png=15a4005c img=25d3c881
+"stopwatch_stopwatch" width=64 height=64 png=ce73fa8c img=05b5d51d alphamode=2
+"suit1blk_suit1blk" width=256 height=256 png=d44e658f img=05d27593
+"suit1blue_suit1blue" width=256 height=256 png=9feaa6a3 img=a7335279
+"suit1gang_suit1gang" width=256 height=256 png=f2784d25 img=16b244fd
+"suit1grey_suit1grey" width=256 height=256 png=091cb06c img=28c54693
+"suit1red_suit1red" width=256 height=256 png=2c2ae291 img=5a2df8a4
+"suit1trblk_suit1trblk" "affiliate=suit1trblk2_suit1trblk"
+"suit1trblk2_suit1trblk" width=128 height=256 png=b9837746 img=11aa88d1
+"suit1trblue_suit1trblue" width=128 height=256 png=e3f6ca10 img=8c8a946a
+"suit1trgang_suit1trgang" width=128 height=256 png=e8ac2116 img=68d9fab1
+"suit1trgreen_suit1trgreen" width=128 height=256 png=d201ce1a img=780c385f
+"suit1trgrey_suit1trgrey" width=128 height=256 png=8c974f37 img=1f573c97
+"suit1trred_suit1trred" width=128 height=256 png=49b2a85a img=51017f23
+"suit1tryellow_suit1tryellow" width=128 height=256 png=f6db3499 img=22b86011
+"suit1yellow_suit1yellow" width=256 height=256 png=f093f237 img=0ff58ae2
+"suit2grn_suit2grn" width=256 height=256 png=63a24587 img=b1ba48af
+"sweatrstar_sweatrstar" width=256 height=256 png=4c17a646 img=fa382fd0
+"tash_afrotash" "affiliate=afrotash_afrotash"
+"timberfawn_timberfawn" width=64 height=64 png=81502709 img=ef4ad5ce
+"timbergrey_timbergrey" width=64 height=64 png=8ad91b82 img=7f0b2bce
+"timberhike_timberhike" width=64 height=64 png=c7fffa65 img=78b289e2
+"timberred_timberred" width=64 height=64 png=5a849055 img=9a18860d
+"torso_torso" width=256 height=256 png=71d618d7 img=1b363ce1
+"tracktr_trackTr" width=128 height=256 png=5c03f7d3 img=2eccc235
+"tracktrblue_trackTrblue" width=128 height=256 png=5dc7423d img=709d5d89
+"tracktrblustr_trackTrblustr" width=128 height=256 png=e56dafae img=0a4e793c
+"tracktreris_tracktreris" width=128 height=256 png=67125bef img=30776376
+"tracktrgang_tracktrgang" width=128 height=256 png=557c0419 img=84f7c6bb
+"tracktrpro_tracktrpro" width=128 height=256 png=3976f09e img=2d95d03c
+"tracktrwhstr_trackTrblustr" width=128 height=256 png=4910bba5 img=e969ac32
+"trackytop1pro_trackytop1pro" width=256 height=256 png=0c9c61e1 img=2b283eab
+"trackytop2eris_trackytop2eris" width=256 height=256 png=d136ae3b img=206a88c7 alphamode=1
+"tramline_tramline" width=128 height=128 png=71ac3c15 img=a83ad84b
+"trilbydrk_trilbydrk" width=32 height=64 png=3b011a01 img=e165ec51
+"trilbylght_trilbylght" width=32 height=64 png=9315fe61 img=c57b148c
+"tshirt_tshirtwhite" width=256 height=256 png=b3c74f89 img=399c27f5 alphamode=2
+"tshirt2_tshirt2horiz" width=256 height=256 png=eeea2040 img=b671092e alphamode=2
+"tshirt2horiz_tshirt2horiz" "affiliate=tshirt2_tshirt2horiz"
+"tshirtbase5_tshirtbase5" width=256 height=256 png=4969c7f9 img=192918b9 alphamode=2
+"tshirtblunts_tshirtblunts" width=256 height=256 png=665495b0 img=df847240 alphamode=2
+"tshirtbobomonk_tshirtbobomonk" width=256 height=256 png=b51ccc46 img=bd98e5d6 alphamode=2
+"tshirtbobored_tshirtbobored" width=256 height=256 png=ebba89f2 img=ccd11341 alphamode=2
+"tshirterisorn_tshirterisorn" width=256 height=256 png=edad9708 img=4e3e10a7 alphamode=2
+"tshirterisyell_tshirterisyell" width=256 height=256 png=d986caa4 img=90da6d0f alphamode=2
+"tshirtheatwht_tshirtheatwht" width=256 height=256 png=8394b980 img=07764c87 alphamode=2
+"tshirtilovels_tshirtilovesa" width=256 height=256 png=4defe4c5 img=8db0b889 alphamode=2
+"tshirtlocgrey_tshirtlocgrey" width=256 height=256 png=a39a7eb8 img=a30ce298 alphamode=2
+"tshirtmaddgrey_tshirtmaddgrey" width=256 height=256 png=10c52095 img=1e04c50f alphamode=2
+"tshirtmaddgrn_tshirtmaddgrn" width=256 height=256 png=7dc21796 img=23bdb88c alphamode=2
+"tshirtmercgry_tshirtmercgry" width=256 height=256 png=16346df1 img=d8f4d17b alphamode=2
+"tshirtmercred_tshirtmercred" width=256 height=256 png=575dd3d4 img=ee2a862d alphamode=2
+"tshirtmercwht_tshirtmercwht" width=256 height=256 png=561f3d69 img=02384614 alphamode=2
+"tshirtproblk_tshirtproblk" width=256 height=256 png=ca02f293 img=5b294f1a alphamode=2
+"tshirtprored_tshirtprored" width=256 height=256 png=2bb31675 img=6b20a939 alphamode=2
+"tshirtprowh_tshirtprowh" width=256 height=256 png=c5388db2 img=2424c3d8 alphamode=2
+"tshirtsuburb_tshirtsuburb" width=256 height=256 png=c0cb0f09 img=39146df2 alphamode=2
+"tshirtwhite_tshirtwhite" width=256 height=256 png=845465e0 img=bc2ff004 alphamode=2
+"tshirtzipcrm_tshirtzipcrm" width=256 height=256 png=6d2bfe92 img=d7ee4308 alphamode=2
+"tshirtzipgry_tshirtzipgry" width=256 height=256 png=5be5017c img=6757ede6 alphamode=2
+"tuxedo_tuxedo" width=256 height=256 png=96a0f825 img=6485bb14
+"valet_valet" width=256 height=256 png=06c0a0c1 img=84a48410
+"vest_vest" width=256 height=256 png=dede3a6f img=2396a5a4 alphamode=1
+"vestblack_vestblack" width=256 height=256 png=07b29443 img=f0802f05 alphamode=1
+"visor_visor" width=64 height=64 png=6946c263 img=e81bd019 alphamode=2
+"watchcro_watchcro" width=128 height=64 png=6132db59 img=72109ac7 alphamode=2
+"watchcro2_watchcro2" width=128 height=64 png=43337fee img=d2dbdcbd alphamode=2
+"watchgno_watchgno" width=128 height=64 png=e92ad423 img=1c73272c alphamode=2
+"watchgno2_watchgno2" width=128 height=64 png=53b13f6b img=f9388cee alphamode=2
+"watchpink_watchpink" width=128 height=64 png=4a5480be img=ad00ae8e
+"watchpro_watchpro" width=128 height=64 png=22f6e842 img=c6d22b02 alphamode=2
+"watchpro2_watchpro2" width=128 height=64 png=a9235435 img=e174b978 alphamode=2
+"watchsub1_watchsub1" width=128 height=64 png=853e53b4 img=bcc573ff alphamode=2
+"watchsub2_watchsub2" width=128 height=64 png=a6df3fa5 img=9ea3eaaf alphamode=2
+"watchyellow_watchyellow" width=128 height=64 png=3ee61190 img=5a231efd
+"watchzip1_watchzip1" width=128 height=64 png=e8cf8c93 img=31a468a3 alphamode=2
+"watchzip2_watchzip2" width=128 height=64 png=50bd3c8b img=8570dfdb alphamode=2
+"wcoatblue_wcoatblue" width=256 height=256 png=03044e1a img=0978ad65 alphamode=2
+"wedge_face" width=128 height=128 png=2ead7259 img=25eeff56
+"worktrcamogrn_workTrcamogrn" width=128 height=256 png=1e2d1ec2 img=d28bf127
+"worktrcamogry_workTrcamogry" width=128 height=256 png=aefb3bf9 img=8d203cf5
+"worktrgrey_workTrgrey" width=128 height=256 png=2504d2bb img=c2abae79
+"worktrkhaki_workTrkhaki" width=128 height=256 png=21efd256 img=023f2718
+"zorro_bowler" width=64 height=64 png=6ab0fff6 img=9096863a
